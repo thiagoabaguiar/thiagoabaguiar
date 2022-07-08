@@ -30,7 +30,7 @@
 <br><br>
 
 <p>:wrench:<strong> Contatos:</strong></p>
-<a href="https://www.linkedin.com/in/thiagoabaguiar" target='_blank'><span><img src="https://github.com/thiagoabaguiar/thiagoabaguiar/blob/main/images/linkedin.png" height="14px"> Linkedin |</span></a>
+<a href="https://www.linkedin.com/in/thiagoabaguiar" target="_blank"><span><img src="https://github.com/thiagoabaguiar/thiagoabaguiar/blob/main/images/linkedin.png" height="14px"> Linkedin |</span></a>
 <a href="mailto:thiagoabaguiar@gmail.com" target="_blank"><span><img src="https://github.com/thiagoabaguiar/thiagoabaguiar/blob/main/images/gmail.png" height="14px"> E-mail |</span></a>
 <a href="https://www.instagram.com/thiagoabaguiar/" target="_blank"><span><img src="https://github.com/thiagoabaguiar/thiagoabaguiar/blob/main/images/instagram.png" height="14px"> Instagram</span></a>
 <br><br>
