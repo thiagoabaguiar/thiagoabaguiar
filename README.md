@@ -1,4 +1,4 @@
-<img src="https://github.com/thiagoabaguiar/thiagoabaguiar/blob/main/images/banner.png" width="100%">
+<img src="https://github.com/thiagoabaguiar/thiagoabaguiar/blob/main/images/banner2.png" width="100%">
 
 <h1>Olá! <img src="https://raw.githubusercontent.com/kaueMarques/kaueMarques/master/hi.gif" height="30px"><br>
     Eu sou o Thiago...
