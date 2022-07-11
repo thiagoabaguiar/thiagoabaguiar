@@ -7,11 +7,11 @@
 <p><strong>Sobre mim:</strong></p>
 <p>:construction_worker: Trabalhei 18 anos com Infraestrutura de TI</p>
 <p>:fire: Mas migrei para o mundo DEV (paixão antiga :heart:)</p>
-<p>:earth_americas: Crio soluções para Web usando JavaScript, CSS e HTML</p>
-<p>:cloud: Sou 4x Certificado AWS Cloud: Developer, Administrator, Architect e Practitioner</p>
+<p>:earth_americas: Ajudo a criar soluções para Web usando JavaScript, CSS e HTML</p>
+<p>:cloud: 4x Certificado AWS Cloud: Developer, Administrator, Architect e Practitioner</p>
 <p>:heavy_dollar_sign: Já atuei no segmento financeiro (bigtechs), imobiliário e de serviços</p>
-<p>:school: Tenho MBA em Tech pela FIAP</p>
-<p>:blue_book: Sou graduado em Redes de Computadores</p>
+<p>:school: MBA em Tech pela FIAP</p>
+<p>:blue_book: Graduado em Redes de Computadores</p>
 <br>
 
 <p>:wrench:<strong> Outras tecnologias da minha stack:</strong></p>
@@ -32,7 +32,6 @@
 <p>:wrench:<strong> Contatos:</strong></p>
 <a href="https://www.linkedin.com/in/thiagoabaguiar" target="_blank"><span><img src="https://github.com/thiagoabaguiar/thiagoabaguiar/blob/main/images/linkedin.png" height="14px"> Linkedin |</span></a>
 <a href="mailto:thiagoabaguiar@gmail.com" target="_blank"><span><img src="https://github.com/thiagoabaguiar/thiagoabaguiar/blob/main/images/gmail.png" height="14px"> E-mail |</span></a>
-<a href="https://www.instagram.com/thiagoabaguiar/" target="_blank"><span><img src="https://github.com/thiagoabaguiar/thiagoabaguiar/blob/main/images/instagram.png" height="14px"> Instagram</span></a>
 <br><br>
 
 <p><img src="https://komarev.com/ghpvc/?username=thiagoabaguiar&color=blueviolet" alt="Profile Views" /></p>
