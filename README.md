@@ -45,7 +45,7 @@
 
 <br><br><br>
 
-<p><img src="https://komarev.com/ghpvc/?username=thiagoabaguiar&color=blueviolet" alt="Profile Views" /></p>
+<p><img src="https://komarev.com/ghpvc/?username=thiagoabaguiar&color=blueviolet" alt="Profile Views"/></p>
 <br>
 
 <strong>
