@@ -6,8 +6,8 @@
 
 <p><strong>Sobre mim:</strong></p>
 <p>:heart: Apaixonado pelo mundo DEV!</p>
-<p>:construction_worker: Trabalhei 18 anos com Cloud e Infra</p>
 <p>:earth_americas:  Ajudo a criar soluções para Web usando JavaScript e todo o seu ecossistema (React, NodeJS, HTML, CSS, etc)</p>
+<p>:construction_worker: Trabalhei 18 anos com Cloud e Infra</p>
 <p>:cloud: 4x Certificado AWS Cloud¹</p>
 <p>:school: MBA em Tech pela FIAP</p>
 <p>:mortar_board: Tecnólogo em Redes</p>
