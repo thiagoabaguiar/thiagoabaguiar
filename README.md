@@ -43,7 +43,7 @@
 <a href="mailto:thiagoabaguiar@gmail.com" target="_blank"><span><img src="https://raw.githubusercontent.com/thiagoabaguiar/thiagoabaguiar/main/images/gmail.png" height="14px"> E-mail |</span></a>
 <a href="https://drive.google.com/file/d/1cmf9n45VxAui_QzO5bHKv3edmAFqg7af/view?usp=sharing" target="_blank"><span>:page_facing_up: Currículo</span></a>
 
-<br><br><br>
+<br><br>
 
 <p><img src="https://komarev.com/ghpvc/?username=thiagoabaguiar&color=blueviolet" alt="Profile Views"/></p>
 <br>
