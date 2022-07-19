@@ -41,7 +41,9 @@
 <p>:mailbox:<strong> Contatos:</strong></p>
 <a href="https://www.linkedin.com/in/thiagoabaguiar" target="_blank"><span><img src="https://raw.githubusercontent.com/thiagoabaguiar/thiagoabaguiar/main/images/linkedin.png" height="14px"> Linkedin |</span></a>
 <a href="mailto:thiagoabaguiar@gmail.com" target="_blank"><span><img src="https://raw.githubusercontent.com/thiagoabaguiar/thiagoabaguiar/main/images/gmail.png" height="14px"> E-mail |</span></a>
-<a href="https://drive.google.com/file/d/1W1SntEdoL34afOh_JFIyhqxETQ84JlCJ/view?usp=sharing" target="_blank"><span>:page_facing_up: Currículo</span></a>
+<a href="https://drive.google.com/file/d/1W1SntEdoL34afOh_JFIyhqxETQ84JlCJ/view?usp=sharing" target="_blank"><span>:page_facing_up: Currículo |</span></a>
+<a href="https://linktr.ee/thiagoabaguiar" target="_blank"><span><img src="https://raw.githubusercontent.com/thiagoabaguiar/thiagoabaguiar/main/images/linktree.png" height="14px"> Linktree</span></a>
+
 
 <br><br>
 
