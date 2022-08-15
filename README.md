@@ -5,12 +5,12 @@
 </h1>
 
 <p><strong>Sobre mim:</strong></p>
-<p>:heart: Apaixonado pelo mundo DEV!</p>
-<p>:earth_americas:  Ajudo a criar soluções para Web usando JavaScript e todo o seu ecossistema (React, NodeJS, HTML, CSS, etc)</p>
-<p>:construction_worker: Trabalhei 18 anos com Cloud e Infra</p>
-<p>:cloud: 4x Certificado AWS Cloud¹</p>
+<p>:heart: Estou em transição de carreira para o mundo de DEV!</p>
+<p>:earth_americas:  Em busca de uma oportunidade como DEV Jr para ecossistema JavaScript (React, NodeJS, HTML, CSS, etc)</p>
+<p>:construction_worker: Trabalhei quase 20 anos com Suporte Técnico, Infraestrutura e Cloud AWS</p>
+<p>:cloud: 4x Certificado AWS¹</p>
 <p>:school: MBA em Tech pela FIAP</p>
-<p>:mortar_board: Tecnólogo em Redes</p>
+<p>:mortar_board: Superior Tecnólogo em Redes</p>
 <p>:heavy_dollar_sign: Já atuei no segmento financeiro (bigtechs), imobiliário e de serviços</p>
 <br>
 
