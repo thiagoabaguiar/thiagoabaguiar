@@ -9,9 +9,11 @@
 <p>:earth_americas:  Sempre em busca de novas oportunidades!</p>
 <p>:construction_worker: Trabalho a quase 20 anos com Tecnologia - Infraestrutura / Cloud</p>
 <p>:cloud: 4x Certificado AWS¹</p>
-<p>:school: MBA em Tech pela FIAP</p>
-<p>:mortar_board: Superior Tecnólogo em Redes</p>
-<p>:heavy_dollar_sign: Já atuei no segmento financeiro (bigtechs), imobiliário e de serviços</p>
+<p>:rocket: Atuante em times ágeis (SCRUM, Kanban) e Waterfall (PMO)</p>
+<p>:speech_balloon: Vivenciado em Tecnologia orientada por CobIT e ITIL</p>
+<p>:school: Pós-graduado (MBA) em Gestão de Tecnologia pela FIAP</p>
+<p>:mortar_board: Formado em Tecnologia de Redes Computacionais</p>
+<p>:heavy_dollar_sign: Experiente em Tecnologia aplicada nos segmentos bancário, startups, logístico e serviços</p>
 <br>
 
 <p>:wrench:<strong> Tecnologias da minha stack:</strong></p>
