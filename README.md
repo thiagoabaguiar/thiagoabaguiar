@@ -7,7 +7,7 @@
 <p><strong>Sobre mim:</strong></p>
 <p>:heart: Sou Desenvolvedor de Software com foco no ecossistema JavaScript</p>
 <p>:earth_americas:  Sempre em busca de novas oportunidades!</p>
-<p>:construction_worker: Trabalhei quase 20 anos com Suporte Técnico, Infraestrutura e Cloud AWS</p>
+<p>:construction_worker: Trabalho a quase 20 anos com Tecnologia - Infraestrutura / Cloud</p>
 <p>:cloud: 4x Certificado AWS¹</p>
 <p>:school: MBA em Tech pela FIAP</p>
 <p>:mortar_board: Superior Tecnólogo em Redes</p>
