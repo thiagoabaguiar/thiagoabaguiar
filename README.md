@@ -5,8 +5,8 @@
 </h1>
 
 <p><strong>Sobre mim:</strong></p>
-<p>:heart: Estou em transição de carreira para o mundo de DEV!</p>
-<p>:earth_americas:  Em busca de uma oportunidade como DEV Jr para ecossistema JavaScript (React, NodeJS, HTML, CSS, etc)</p>
+<p>:heart: Sou Desenvolvedor de Software com foco no ecossistema JavaScript</p>
+<p>:earth_americas:  Sempre em busca de novas oportunidades!</p>
 <p>:construction_worker: Trabalhei quase 20 anos com Suporte Técnico, Infraestrutura e Cloud AWS</p>
 <p>:cloud: 4x Certificado AWS¹</p>
 <p>:school: MBA em Tech pela FIAP</p>
@@ -14,7 +14,7 @@
 <p>:heavy_dollar_sign: Já atuei no segmento financeiro (bigtechs), imobiliário e de serviços</p>
 <br>
 
-<p>:wrench:<strong> Outras tecnologias da minha stack:</strong></p>
+<p>:wrench:<strong> Tecnologias da minha stack:</strong></p>
 <span><img src="https://raw.githubusercontent.com/thiagoabaguiar/thiagoabaguiar/main/images/react.png" height="14px"> React |</span>
 <span><img src="https://raw.githubusercontent.com/thiagoabaguiar/thiagoabaguiar/main/images/node.png" height="14px"> NodeJS |</span>
 <span><img src="https://raw.githubusercontent.com/thiagoabaguiar/thiagoabaguiar/main/images/typescript.png" height="14px"> Typescript |</span>
