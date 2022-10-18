@@ -29,10 +29,10 @@
 <span><img src="https://raw.githubusercontent.com/thiagoabaguiar/thiagoabaguiar/main/images/linux.png" height="14px"> Linux |</span>
 <span><img src="https://raw.githubusercontent.com/thiagoabaguiar/thiagoabaguiar/main/images/windowsserver.png" height="14px"> Windows |</span>
 <span><img src="https://raw.githubusercontent.com/thiagoabaguiar/thiagoabaguiar/main/images/git.png" height="14px"> Git |</span>
-<span><img src="https://raw.githubusercontent.com/thiagoabaguiar/thiagoabaguiar/main/images/aws.png" height="14px"> AWS |</span>
+<span><img src="https://raw.githubusercontent.com/thiagoabaguiar/thiagoabaguiar/main/images/aws2.png" height="14px"> AWS |</span>
 <span><img src="https://raw.githubusercontent.com/thiagoabaguiar/thiagoabaguiar/main/images/azure.png" height="14px"> Azure |</span>
-<span><img src="https://raw.githubusercontent.com/thiagoabaguiar/thiagoabaguiar/main/images/docker.png" height="14px"> Docker |</span>
-<span><img src="https://raw.githubusercontent.com/thiagoabaguiar/thiagoabaguiar/main/images/kubernetes.png" height="14px"> Kubernetes</span>
+<span><img src="https://raw.githubusercontent.com/thiagoabaguiar/thiagoabaguiar/main/images/docker2.png" height="14px"> Docker |</span>
+<span><img src="https://raw.githubusercontent.com/thiagoabaguiar/thiagoabaguiar/main/images/kubernetes2.png" height="14px"> Kubernetes</span>
 <br><br><br>
 
 <p>:cloud:<strong> ¹Certificações AWS Cloud:</strong></p>
