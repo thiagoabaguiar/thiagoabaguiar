@@ -27,7 +27,7 @@
 <span><img src="https://raw.githubusercontent.com/thiagoabaguiar/thiagoabaguiar/main/images/tailwind.png" height="14px"> Tailwind CSS |</span>
 <span><img src="https://raw.githubusercontent.com/thiagoabaguiar/thiagoabaguiar/main/images/bd1.png" height="14px"> SQL |</span>
 <span><img src="https://raw.githubusercontent.com/thiagoabaguiar/thiagoabaguiar/main/images/linux.png" height="14px"> Linux |</span>
-<span><img src="https://raw.githubusercontent.com/thiagoabaguiar/thiagoabaguiar/main/images/windowsserver.png" height="14px"> Windows |</span>
+<span><img src="https://raw.githubusercontent.com/thiagoabaguiar/thiagoabaguiar/main/images/windowsserver.png" height="14px"> Windows</span><br>
 <span><img src="https://raw.githubusercontent.com/thiagoabaguiar/thiagoabaguiar/main/images/git.png" height="14px"> Git |</span>
 <span><img src="https://raw.githubusercontent.com/thiagoabaguiar/thiagoabaguiar/main/images/aws2.png" height="14px"> AWS |</span>
 <span><img src="https://raw.githubusercontent.com/thiagoabaguiar/thiagoabaguiar/main/images/azure.png" height="14px"> Azure |</span>
