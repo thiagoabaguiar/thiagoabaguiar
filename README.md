@@ -1,5 +1,3 @@
-<img src="https://raw.githubusercontent.com/thiagoabaguiar/thiagoabaguiar/main/images/topo4.png" width="100%">
-
 <h1>Olá! <img src="https://raw.githubusercontent.com/kaueMarques/kaueMarques/master/hi.gif" height="30px"><br>
     Eu sou o Thiago...
 </h1>
