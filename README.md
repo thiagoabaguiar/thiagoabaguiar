@@ -18,11 +18,6 @@
 <span><img src="https://raw.githubusercontent.com/thiagoabaguiar/thiagoabaguiar/main/images/react.png" height="14px"> React |</span>
 <span><img src="https://raw.githubusercontent.com/thiagoabaguiar/thiagoabaguiar/main/images/node.png" height="14px"> NodeJS |</span>
 <span><img src="https://raw.githubusercontent.com/thiagoabaguiar/thiagoabaguiar/main/images/typescript.png" height="14px"> Typescript |</span>
-<span><img src="https://raw.githubusercontent.com/thiagoabaguiar/thiagoabaguiar/main/images/sass.png" height="14px"> Sass |</span>
-<span><img src="https://raw.githubusercontent.com/thiagoabaguiar/thiagoabaguiar/main/images/webpack.png" height="14px"> Webpack |</span>
-<span><img src="https://raw.githubusercontent.com/thiagoabaguiar/thiagoabaguiar/main/images/jest.png" height="14px"> Jest</span><br>
-<span><img src="https://raw.githubusercontent.com/thiagoabaguiar/thiagoabaguiar/main/images/styledcomponents.png" height="14px"> Styled-Components |</span>
-<span><img src="https://raw.githubusercontent.com/thiagoabaguiar/thiagoabaguiar/main/images/tailwind.png" height="14px"> Tailwind CSS |</span>
 <span><img src="https://raw.githubusercontent.com/thiagoabaguiar/thiagoabaguiar/main/images/bd1.png" height="14px"> SQL |</span>
 <span><img src="https://raw.githubusercontent.com/thiagoabaguiar/thiagoabaguiar/main/images/linux.png" height="14px"> Linux |</span>
 <span><img src="https://raw.githubusercontent.com/thiagoabaguiar/thiagoabaguiar/main/images/windowsserver.png" height="14px"> Windows</span><br>
