@@ -3,27 +3,25 @@
 </h1>
 
 <p><strong>Sobre mim:</strong></p>
-<p>:heart: Desenvolvedor de Software Backend - Java e JavaScript</p>
-<p>:earth_americas:  Sempre em busca de novas oportunidades!</p>
-<p>:construction_worker: Trabalhando a quase 20 anos com Tecnologia - Infraestrutura / Cloud</p>
-<p>:cloud: 4x Certificado AWS¹</p>
-<p>:rocket: Atuante em times ágeis (SCRUM, Kanban) e Waterfall (PMO)</p>
-<p>:speech_balloon: Vivenciado em Tecnologia orientada por CobIT e ITIL</p>
-<p>:school: Pós-graduado (MBA) em Gestão de Tecnologia pela FIAP</p>
-<p>:mortar_board: Formado em Tecnologia de Redes Computacionais</p>
-<p>:heavy_dollar_sign: Experiente em Tecnologia aplicada nos segmentos bancário, startups, logístico e serviços</p>
+<p>:heart: Sou Desenvolvedor de Software JAVA Backend</p>
+<p>:construction_worker: Trabalho a 20 anos com Tecnologia</p>
+<p>:heavy_dollar_sign: Já trabalhei em Tecnologia nos segmentos bancário, startups, logístico, serviços e energia</p>
+<p>:rocket: Atuo em times ágeis (SCRUM, Kanban) e também Waterfall (PMO)</p>
+<p>:cloud: Sou 4x Certificado AWS¹</p>
+<p>:school: Sou Pós-graduado (MBA) em Gestão de Tecnologia pela FIAP</p>
+<p>:mortar_board: Sou Formado em Tecnologia de Redes Computacionais</p>
+<p>:speech_balloon: Tenho experiência com CobIT e ITIL</p>
+<p>:earth_americas: Estou sempre em busca de novas oportunidades!</p>
 <br>
 
-<p>:wrench:<strong> Tecnologias da minha stack:</strong></p>
-<span><img src="https://raw.githubusercontent.com/thiagoabaguiar/thiagoabaguiar/main/images/react.png" height="14px"> React |</span>
-<span><img src="https://raw.githubusercontent.com/thiagoabaguiar/thiagoabaguiar/main/images/node.png" height="14px"> NodeJS |</span>
-<span><img src="https://raw.githubusercontent.com/thiagoabaguiar/thiagoabaguiar/main/images/typescript.png" height="14px"> Typescript |</span>
-<span><img src="https://raw.githubusercontent.com/thiagoabaguiar/thiagoabaguiar/main/images/bd1.png" height="14px"> SQL |</span>
+<p>:wrench:<strong> Outras Tecnologias da minha stack:</strong></p>
+
 <span><img src="https://raw.githubusercontent.com/thiagoabaguiar/thiagoabaguiar/main/images/linux.png" height="14px"> Linux |</span>
-<span><img src="https://raw.githubusercontent.com/thiagoabaguiar/thiagoabaguiar/main/images/windowsserver.png" height="14px"> Windows</span><br>
+<span><img src="https://raw.githubusercontent.com/thiagoabaguiar/thiagoabaguiar/main/images/windowsserver.png" height="14px"> Windows |</span>
 <span><img src="https://raw.githubusercontent.com/thiagoabaguiar/thiagoabaguiar/main/images/git.png" height="14px"> Git |</span>
 <span><img src="https://raw.githubusercontent.com/thiagoabaguiar/thiagoabaguiar/main/images/aws2.png" height="14px"> AWS |</span>
 <span><img src="https://raw.githubusercontent.com/thiagoabaguiar/thiagoabaguiar/main/images/azure.png" height="14px"> Azure |</span>
+<span><img src="https://raw.githubusercontent.com/thiagoabaguiar/thiagoabaguiar/main/images/bd1.png" height="14px"> SQL |</span>
 <span><img src="https://raw.githubusercontent.com/thiagoabaguiar/thiagoabaguiar/main/images/docker2.png" height="14px"> Docker |</span>
 <span><img src="https://raw.githubusercontent.com/thiagoabaguiar/thiagoabaguiar/main/images/kubernetes2.png" height="14px"> Kubernetes</span>
 <br><br><br>
