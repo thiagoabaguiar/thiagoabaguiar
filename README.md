@@ -22,8 +22,7 @@
 <span><img src="https://raw.githubusercontent.com/thiagoabaguiar/thiagoabaguiar/main/images/aws2.png" height="14px"> AWS |</span>
 <span><img src="https://raw.githubusercontent.com/thiagoabaguiar/thiagoabaguiar/main/images/azure.png" height="14px"> Azure |</span>
 <span><img src="https://raw.githubusercontent.com/thiagoabaguiar/thiagoabaguiar/main/images/bd1.png" height="14px"> SQL |</span>
-<span><img src="https://raw.githubusercontent.com/thiagoabaguiar/thiagoabaguiar/main/images/docker2.png" height="14px"> Docker |</span>
-<span><img src="https://raw.githubusercontent.com/thiagoabaguiar/thiagoabaguiar/main/images/kubernetes2.png" height="14px"> Kubernetes</span>
+<span><img src="https://raw.githubusercontent.com/thiagoabaguiar/thiagoabaguiar/main/images/docker2.png" height="14px"> Docker</span>
 <br><br><br>
 
 <p>:cloud:<strong> ¹Certificações AWS Cloud:</strong></p>
