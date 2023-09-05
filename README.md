@@ -11,7 +11,7 @@
 <p>:school: Sou Pós-graduado (MBA) em Gestão de Tecnologia pela FIAP</p>
 <p>:mortar_board: Sou Formado em Tecnologia de Redes Computacionais</p>
 <p>:speech_balloon: Tenho experiência com CobIT e ITIL</p>
-<p>:earth_americas: Estou sempre em busca de novas oportunidades!</p>
+<p>:earth_americas: Estou sempre em busca de desafios!</p>
 <br>
 
 <p>:wrench:<strong> Outras Tecnologias da minha stack:</strong></p>
