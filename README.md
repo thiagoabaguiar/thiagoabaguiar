@@ -3,7 +3,7 @@
 </h1>
 
 <p><strong>Sobre mim:</strong></p>
-<p>:heart: Sou Desenvolvedor de Software JAVA Backend</p>
+<p>:heart: Sou Desenvolvedor de Software Java Backend</p>
 <p>:construction_worker: Trabalho a 20 anos com Tecnologia</p>
 <p>:heavy_dollar_sign: Já trabalhei em Tecnologia nos segmentos bancário, startups, logístico, serviços e energia</p>
 <p>:rocket: Atuo em times ágeis (SCRUM, Kanban) e também Waterfall (PMO)</p>
