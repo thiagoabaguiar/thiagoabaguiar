@@ -3,7 +3,7 @@
 </h1>
 
 <p><strong>Sobre mim:</strong></p>
-<p>:heart: Sou Desenvolvedor de Software Java Backend</p>
+<p>:heart: Sou Desenvolvedor de Software Java Backend JR em transição de carreira (atuava como Infraestrutura)</p>
 <p>:construction_worker: Trabalho a 20 anos com Tecnologia</p>
 <p>:heavy_dollar_sign: Já trabalhei em Tecnologia nos segmentos bancário, startups, logístico, serviços e energia</p>
 <p>:rocket: Atuo em times ágeis (SCRUM, Kanban) e também Waterfall (PMO)</p>
@@ -37,7 +37,7 @@
 <p>:mailbox:<strong> Contatos:</strong></p>
 <a href="https://www.linkedin.com/in/thiagoabaguiar" target="_blank"><span><img src="https://raw.githubusercontent.com/thiagoabaguiar/thiagoabaguiar/main/images/linkedin.png" height="14px"> Linkedin |</span></a>
 <a href="mailto:thiagoabaguiar@gmail.com" target="_blank"><span><img src="https://raw.githubusercontent.com/thiagoabaguiar/thiagoabaguiar/main/images/gmail.png" height="14px"> E-mail |</span></a>
-<a href="https://drive.google.com/file/d/1gQZZz6J9qCFfkGn4AkdmVTW-C_1Wiao9/view?usp=sharing" target="_blank"><span>:page_facing_up: Currículo </span></a>
+<a href="https://drive.google.com/file/d/1p7tDrbNdc8Lel9wDzRG6CaAZv29ZWa7u/view?usp=sharing" target="_blank"><span>:page_facing_up: Currículo </span></a>
 
 
 <br><br>
