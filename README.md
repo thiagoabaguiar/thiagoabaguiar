@@ -3,14 +3,13 @@
 </h1>
 
 <p><strong>Sobre mim:</strong></p>
-<p>:heart: Sou Desenvolvedor de Software Java Backend JR em transição de carreira (atuava como Infraestrutura)</p>
-<p>:construction_worker: Trabalho a 20 anos com Tecnologia</p>
-<p>:heavy_dollar_sign: Já trabalhei em Tecnologia nos segmentos bancário, startups, logístico, serviços e energia</p>
+<p>:heart: Atuei durante quase 20 anos com Infraestrutura de TI, mas decidi mudar e fazer uma transição para 💻 <strong>Desenvolvimento/Programação</strong>, pois sempre foi minha área preferida!</p>
+<p>:construction_worker: Atualmente, estou aprendendo Java para Backend. Já passei por JavaScript, React e NodeJS</p>
+<p>:speech_balloon: Tenho experiência com DevOps, computação em nuvem, banco de dados SQL, HTML/CSS, Segurança da Informação e Redes/Telecom</p>
+<p>:heavy_dollar_sign: Já trabalhei nos segmentos bancário, startups, logístico, serviços e energia</p>
 <p>:rocket: Atuo em times ágeis (SCRUM, Kanban) e também Waterfall (PMO)</p>
 <p>:cloud: Sou 4x Certificado AWS¹</p>
-<p>:school: Sou Pós-graduado (MBA) em Gestão de Tecnologia pela FIAP</p>
-<p>:mortar_board: Sou Formado em Tecnologia de Redes Computacionais</p>
-<p>:speech_balloon: Tenho experiência com CobIT e ITIL</p>
+<p>:mortar_board: Sou Tecnólogo em Redes</p>
 <p>:earth_americas: Estou sempre em busca de desafios!</p>
 <br>
 
@@ -37,7 +36,6 @@
 <p>:mailbox:<strong> Contatos:</strong></p>
 <a href="https://www.linkedin.com/in/thiagoabaguiar" target="_blank"><span><img src="https://raw.githubusercontent.com/thiagoabaguiar/thiagoabaguiar/main/images/linkedin.png" height="14px"> Linkedin |</span></a>
 <a href="mailto:thiagoabaguiar@gmail.com" target="_blank"><span><img src="https://raw.githubusercontent.com/thiagoabaguiar/thiagoabaguiar/main/images/gmail.png" height="14px"> E-mail |</span></a>
-<a href="https://drive.google.com/file/d/1n1r2vG36n6sHOqBtkjwUtcr8iRQUroSQ/view?usp=sharing" target="_blank"><span>:page_facing_up: Currículo </span></a>
 
 
 <br><br>
