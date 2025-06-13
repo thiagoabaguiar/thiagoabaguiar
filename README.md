@@ -3,12 +3,15 @@
 </h1>
 
 <p><strong>Sobre mim:</strong></p>
-<p>:construction_worker: Atuo a 20 anos com TI, tendo passado por diversas áreas, tais como Redes Windows/Linux, Infra e Datacenter, Banco de Dados SQL e Oracle, Automação/Control-M, DevOps e Cloud Computing (AWS). Atualmente, estou atuando com Projetos de Sistemas Financeiros, e estudando Programação em Java para Backend</p>
-<p>:heavy_dollar_sign: Segmentos das empresas nas quais já trabalhei com TI: indústria, logística, bancário, startups, serviços e energia/combustíveis</p>
-<p>:rocket: Tenho experiência com metodologias ágeis/SCRUM e cascata (PMO)</p>
-<p>:cloud: Sou 4x Certificado AWS¹</p>
-<p>:mortar_board: Sou Formado em Redes e Pós-graduado em Gestão de TI</p>
-<p>:earth_americas: Estou sempre em busca de desafios!</p>
+<p>Com 20 anos de experiência em TI, desenvolvi uma carreira sólida e diversificada, atuando em áreas como Cloud Computing (AWS), FinOps, Infraestrutura, On-Premises, DevOps, Automação de Jobs com Control-M, Redes/Telecom, Desenvolvimento de Software, Banco de Dados e Sistemas Financeiros.
+
+Minha trajetória profissional inclui colaborações em empresas de diversos segmentos, como o bancário, energia, comércio exterior, logística e indústria. Essa variedade de experiências me proporcionou uma visão ampla e adaptativa, essencial para enfrentar os desafios tecnológicos de cada setor.
+
+Durante minha carreira, enfrentei grandes desafios, tais como redução de custos com cloud, renegociação de contratos de fornecedores de TI, aumento na qualidade e satisfação de clientes, alavancagem de negócios e produtos, e solução de problemas de disponibilidade e performance de sistemas. Estes desafios contribuíram para formar um profissional experiente em ambientes complexos, voláteis e de pressão constante.
+
+Além disso, em minha trajetória tive a oportunidade de vivenciar inúmeros projetos dos mais variados contextos, inclusive alternando entre metodologias ágeis, como SCRUM, e cascata, como PMI, além de gerenciamento de serviços com ITIL. Isso me permite escolher a abordagem mais adequada para cada projeto ou necessidade.
+
+Também possuo certificações AWS e uma pós-graduação pela FIAP, reforçando meu compromisso com a aprendizagem contínua e a excelência profissional.
 <br>
 
 <p>:wrench:<strong> Algumas Tecnologias da minha stack:</strong></p>
